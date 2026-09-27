@@ -47,9 +47,10 @@ export function Navbar() {
     { label: "Resources", href: "/resources" },
     { label: "Placement", href: "/placement" },
     { label: "Company Qs", href: "/placement/company-questions" },
+    { label: "RBU Drives", href: "/placement/rbu-recruitment" },
+    { label: "Skill Up", href: "/skill-up" },
     { label: "Vibe Coding", href: "/vibe-coding" },
-    { label: "Learning", href: "/learning" },
-    { label: "Questions", href: "/questions" },
+    { label: "Questions", href: "/important-questions" },
     { label: "Roadmaps", href: "/roadmaps" },
   ];
 

@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "import:placement": "npx tsx scripts/import-placement-pdfs.ts"
+    "import:placement": "npx tsx scripts/import-placement-pdfs.ts",
+    "import:all": "npx tsx scripts/import-all-placement-resources.ts"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
